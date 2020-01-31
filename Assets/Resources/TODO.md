@@ -10,8 +10,15 @@
         * that leaves both D-Pads free
     * make the keys and animations feel good to control
     * try animations for different weapon types (I have a catalog somewhere)
+        * sword (down, up, jab)
+
 1. once things are moving, make some sword effects. [Unity 2018 - Game VFX - Weapon Trails / Slash Tutorial
 ](https://www.youtube.com/watch?v=c8hijUge7IY)
+
+1. define/document weapon types
+    * what are the actions we need for each (down, up, jab?)
+    * write down what the characteristics of them are (e.g. rapier: up/down blocks or mild damage, jab is major damage, moves fast)
+
 1. Update Unstable animation
     * right now, it just perterbs the angles
     * I really want it to keep the feet in the same place, but the hips sway around
